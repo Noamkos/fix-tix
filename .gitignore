@@ -1,0 +1,12 @@
+node_modules
+dist
+*.local
+.env
+.env.*
+.DS_Store
+Thumbs.db
+.vercel
+
+# Kept local, never in the public repo
+FIXTIX_SPEC.md
+.claude/
