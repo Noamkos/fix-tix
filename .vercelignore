@@ -1,0 +1,8 @@
+# Never uploaded to Vercel either (same as .gitignore)
+node_modules
+dist
+.claude
+FIXTIX_SPEC.md
+.env
+.env.*
+*.local

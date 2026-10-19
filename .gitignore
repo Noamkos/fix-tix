@@ -1,10 +1,12 @@
 node_modules
 dist
 *.local
-.env
-.env.*
 .DS_Store
 Thumbs.db
+
+# Secrets and local Vercel settings (the Vercel CLI keeps its login key in .env.local)
+.env
+.env*
 .vercel
 
 # Kept local, never in the public repo
